@@ -52,7 +52,7 @@ The Sales Director at AtliQ Technologies struggled with limited visibility into 
 
 ## 📂 Dataset
 
-The dataset contains over **150,000+ sales transactions** from AtliQ Hardware, stored in a SQL format.  
+The dataset contains over **150,000+ sales transactions** from AtliQ, stored in a SQL format.  
 📁 **`db_dump.sql`** 
 
 Tables include:
