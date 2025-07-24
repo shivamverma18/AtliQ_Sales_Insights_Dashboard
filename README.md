@@ -11,17 +11,20 @@ The Sales Director at AtliQ Technologies struggled with limited visibility into 
 
 ## 🎯 Project Objective (Based on AIMS Grid)
 
-![AIMS Grid](https://github.com/user-attachments/assets/6512e374-065f-47f9-b546-1ab23682c5f2)
+![AIMS Grid](https://github.com/user-attachments/assets/4f8b98d1-becd-4b46-9efd-398041c92f8d)
+
 
 ---
 
 ## 📷 Dashboard Snapshots
 
 | **Profit Analysis** |
-![AtliQ Profit Analysis Dashboard](https://github.com/user-attachments/assets/0be1d415-a950-4777-b718-9e28bd0f5a10)
+![AtliQ Profit Analysis Dashboard](https://github.com/user-attachments/assets/90ac9ad5-ebe3-4bcc-9548-337ff38b8ee5)
+
 
 | **Revenue Analysis** | 
-![AtliQ Revenue Analysis Dashboard](https://github.com/user-attachments/assets/b4ec3326-e9e7-4a2c-a594-3ed2aae34e71)
+![AtliQ Revenue Analysis Dashboard](https://github.com/user-attachments/assets/ac1a5595-aac4-4444-ae08-0c26ac93cc5d)
+
 
 ## 📌 Key Features
 
